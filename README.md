@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@jaguzmana**
-- 👀 I’m interested in **Front-end web development**
-- 🌱 I’m currently learning **HTML, CSS & JavaScript**
+- 👀 I’m interested in **Data Science**
+- 🌱 I’m currently learning **Python**
 - 💞️ I’m looking to collaborate on **#100DaysOfCode**
 - 📫 How to reach me on [GitHub](https://github.com/jaguzmana/) and on [Twitter](https://twitter.com/jaguzmana_/)
 
