@@ -10,7 +10,7 @@
 | **Command** | **Description** |
 |---------|-------------|
 | `rm <file_name>`| This remove a file, with -r flag remove folders. |
-| `cd <file_name> ` | Change Current Directory |
+| `cd <directory>` | Change Current Directory |
 |`touch <new_file_name>`| Create a new file |
 |`pwd`| Print current working directory |
 |`cat <file_name>`| Shows in terminal the content file |
