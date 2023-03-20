@@ -1,11 +1,9 @@
-- 👋 Hi, I’m **@jaguzmana**
-- 👀 I’m interested in **Data Engineering and Backend Development**
-- 🌱 I’m currently learning **Python**
-- 💞️ I’m looking to collaborate on **#100DaysOfCode**
-- 📫 How to reach me on [GitHub](https://github.com/jaguzmana/) and on [Twitter](https://twitter.com/jaguzmana_/)
+## Hello!, I'm Jorge
+---
+I am a university student, I am currently attending the Undefined Shell Bootcamp to acquire the skills of a Full-stack JavaScript Developer.
 
 ---
-# Following is just a *Markdown Practice*:
+## Following is just a *Markdown Practice*:
 ### Table of some **Terminal Commands**
 | **Command** | **Description** |
 |---------|-------------|
