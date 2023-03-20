@@ -1,5 +1,5 @@
-# Hello!, I'm Jorge
-I am an undergraduate student, I am currently taking the Undefined Shell Bootcamp to acquire the skills of a Full-stack JavaScript Developer.
+# Hello!, I'm Jorge 👋
+I am an undergraduate student, I am currently taking the *Undefined Shell Bootcamp* to learn the skills of a *Full-stack JavaScript Developer*.
 
 ---
 ## Following is just a *Markdown Practice*:
