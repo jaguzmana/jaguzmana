@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Jorge
 
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff)]
+
 <!-- ![Profile Banner](https://github.com/jaguzmana/jaguzmana/blob/main/github_banner.png) -->
 
 I'm Jorge Guzmán, a passionate Data Developer and Electronics Engineering Student. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and explorations in the world of data and programming. Feel free to connect with me and explore my work. Let's dive in!
