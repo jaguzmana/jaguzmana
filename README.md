@@ -1,24 +1,21 @@
 ## Hello! 👋  
 ---
-I’m **Jorge Guzmán**, a **Junior Data Engineer** with a background in **Electronics Engineering**. I work on building and maintaining data pipelines, automating data workflows, and making sure data is reliable and ready for analytics and reporting. I enjoy writing clean, well-documented solutions and continuously improving my skills, especially in cloud-based data engineering.
+I’m **Jorge Guzmán**, a **Junior Data Engineer** with a background in **Electronics Engineering**. I build and maintain ETL/ELT data pipelines, automate workflows, and help make sure data is reliable and ready for analytics and reporting. I enjoy writing clean, well-documented code and continuously improving my skills.
 
 ---
 
 ## 🛠️ Skills & Technologies  
-
-### **Languages**  
 - Python  
-- SQL  
-
-### **Data Engineering**  
-- **Data Processing**: Apache Spark (PySpark), ETL processes  
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Cloud Platforms**: AWS, Microsoft Azure, Google Cloud Platform (GCP)  
-- **Version Control & Tools**: Git, GitHub, Linux  
-
-### **Data Visualization & Analytics**  
-- Power BI  
-- Tableau  
+- SQL & NoSQL  
+- Apache Airflow  
+- Apache Spark (PySpark)  
+- ETL/ELT processes  
+- REST APIs, GraphQL APIs, SFTP  
+- Microsoft Azure, Google Cloud Platform (GCP)  
+- Power BI, Tableau  
+- Git & GitHub  
+- Docker  
+- Linux  
 
 ---
 
@@ -31,5 +28,6 @@ I’m **Jorge Guzmán**, a **Junior Data Engineer** with a background in **Elect
 ---
 
 ## 🔍 Current Focus & Interests  
-- Learning **Microsoft Fabric** to strengthen my **cloud-based approach to data engineering** (DP-700 in progress)  
-- Interested in **Computer Vision**, **Artificial Intelligence**, and **Digital Signal Processing**, influenced by my background in Electronics Engineering  
+- Preparing for the **Microsoft Fabric Data Engineer Associate (DP-700)** certification
+- Preparing for the **Databricks Data Engineer Associate** certification  
+- Interested in bringing together **Data Engineering** and **Electronics Engineering** in **Computer Vision**, **AI**, **DSP**, and **IoT**  
