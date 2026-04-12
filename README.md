@@ -1,6 +1,7 @@
 ## Hello! 👋  
 ---
 I’m **Jorge Guzmán**, a **Junior Data Engineer** with a background in **Electronics Engineering**. I build and maintain ETL/ELT data pipelines, automate workflows, and help make sure data is reliable and ready for analytics and reporting. I enjoy writing clean, well-documented code and continuously improving my skills.
+📍 **Based in Bogota, Colombia**
 
 ---
 
